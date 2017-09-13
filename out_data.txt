@@ -1,0 +1,19 @@
+John Torterlla:False:False
+Sergei Bobrosky:False:False
+Nick Foligno:False:False
+Seth Jones:False:False
+Brandon Dubinsky:False:False
+Boone Jenner:False:False
+Panarin:False:False
+ThePenguins:False:True
+Sidney Crosby:False:False
+Malkin:False:False
+MarkAndrea Fluery:False:False
+Latange:False:False
+Custom:False:False
+Custom:False:False
+Custom:False:False
+Custom:False:False
+Custom:False:False
+Custom:False:False
+Total Sample Per Month:Signature:  Initial:  Date:
